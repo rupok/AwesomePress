@@ -1,8 +1,10 @@
 AwesomePress
 ============
 
-#### Font Awesome Icons for WordPress [Plugin]
 
+#### Font Awesome Icons for WordPress 
+
+<a href="http://wordpress.org/plugins/awesomepress/">[Plugin Repository]</a>
 
 #### Enables the Font Awesome icon font set within WordPress. Icons can be inserted using either HTML or a shortcode.
 
